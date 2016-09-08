@@ -1,0 +1,1 @@
+ubuntu 16.04 安装 magento   https://gotechnies.com/install-magento2-ubuntu-lts-16-04/
